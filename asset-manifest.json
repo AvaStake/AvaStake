@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/niron/static/css/main.dcdeb9ee.chunk.css",
-    "main.js": "/niron/static/js/main.101d74a7.chunk.js",
-    "main.js.map": "/niron/static/js/main.101d74a7.chunk.js.map",
-    "runtime-main.js": "/niron/static/js/runtime-main.44ebb7ca.js",
-    "runtime-main.js.map": "/niron/static/js/runtime-main.44ebb7ca.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/niron/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.47e35b33.chunk.js": "/niron/static/js/2.47e35b33.chunk.js",
-    "static/js/2.47e35b33.chunk.js.map": "/niron/static/js/2.47e35b33.chunk.js.map",
-    "index.html": "/niron/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/niron/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.dcdeb9ee.chunk.css.map": "/niron/static/css/main.dcdeb9ee.chunk.css.map",
-    "static/js/2.47e35b33.chunk.js.LICENSE.txt": "/niron/static/js/2.47e35b33.chunk.js.LICENSE.txt"
+    "main.css": "/AvaStake/static/css/main.a7b35247.chunk.css",
+    "main.js": "/AvaStake/static/js/main.fa4e5133.chunk.js",
+    "main.js.map": "/AvaStake/static/js/main.fa4e5133.chunk.js.map",
+    "runtime-main.js": "/AvaStake/static/js/runtime-main.cb661d3a.js",
+    "runtime-main.js.map": "/AvaStake/static/js/runtime-main.cb661d3a.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/AvaStake/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.bec9033c.chunk.js": "/AvaStake/static/js/2.bec9033c.chunk.js",
+    "static/js/2.bec9033c.chunk.js.map": "/AvaStake/static/js/2.bec9033c.chunk.js.map",
+    "index.html": "/AvaStake/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/AvaStake/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.a7b35247.chunk.css.map": "/AvaStake/static/css/main.a7b35247.chunk.css.map",
+    "static/js/2.bec9033c.chunk.js.LICENSE.txt": "/AvaStake/static/js/2.bec9033c.chunk.js.LICENSE.txt",
+    "static/media/AvaStake.175b7b0d.png": "/AvaStake/static/media/AvaStake.175b7b0d.png",
+    "static/media/app.css": "/AvaStake/static/media/bgniron.f3d6f159.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44ebb7ca.js",
+    "static/js/runtime-main.cb661d3a.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.47e35b33.chunk.js",
-    "static/css/main.dcdeb9ee.chunk.css",
-    "static/js/main.101d74a7.chunk.js"
+    "static/js/2.bec9033c.chunk.js",
+    "static/css/main.a7b35247.chunk.css",
+    "static/js/main.fa4e5133.chunk.js"
   ]
 }

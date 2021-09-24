@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/niron/static/css/main.dcdeb9ee.chunk.css",
+    "main.js": "/niron/static/js/main.101d74a7.chunk.js",
+    "main.js.map": "/niron/static/js/main.101d74a7.chunk.js.map",
+    "runtime-main.js": "/niron/static/js/runtime-main.44ebb7ca.js",
+    "runtime-main.js.map": "/niron/static/js/runtime-main.44ebb7ca.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/niron/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.47e35b33.chunk.js": "/niron/static/js/2.47e35b33.chunk.js",
+    "static/js/2.47e35b33.chunk.js.map": "/niron/static/js/2.47e35b33.chunk.js.map",
+    "index.html": "/niron/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/niron/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.dcdeb9ee.chunk.css.map": "/niron/static/css/main.dcdeb9ee.chunk.css.map",
+    "static/js/2.47e35b33.chunk.js.LICENSE.txt": "/niron/static/js/2.47e35b33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44ebb7ca.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.47e35b33.chunk.js",
+    "static/css/main.dcdeb9ee.chunk.css",
+    "static/js/main.101d74a7.chunk.js"
+  ]
+}
